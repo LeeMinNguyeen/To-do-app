@@ -180,7 +180,4 @@ def main(page: Page):
     # add application's root control to the page
     page.add(app)
     
-    #a
-    
-
 flet.app(target=main)
